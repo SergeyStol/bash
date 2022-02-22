@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#process arguments
 while test $# -gt 0; do
   case "$1" in
   -h | --help)
